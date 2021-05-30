@@ -1,6 +1,5 @@
 # Credet-Card-Lead-Detection
-Identifying customers that could show higher intent towards a recommended credit card
-The repository contains:
+Identifying customers that could show higher intent towards a recommended credit card. The repository contains:
 
   CCDL.pkl : which is a trained model which can be used for prediction
   
